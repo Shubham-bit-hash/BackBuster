@@ -25,13 +25,13 @@ This project utilizes computer vision techniques to enable real-time background 
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/real-time-background-switching.git
+    git clone https://github.com/Shubham-bit-hash/BackBuster/.git
     ```
 
-2. Install the required dependencies:
+2. open the folder where the files downloaded:
 
     ```bash
-    pip install -r requirements.txt
+    downloads/BackBuster/
     ```
 
 3. Run the application:
